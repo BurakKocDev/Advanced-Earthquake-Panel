@@ -205,3 +205,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# 2GB'lık büyük veri setini yoksay
+Earthquakes_USGS.csv
